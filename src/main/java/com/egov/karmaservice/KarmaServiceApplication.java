@@ -1,13 +1,13 @@
-package com.egov.socialservice;
+package com.egov.karmaservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SocialServiceApplication {
+public class KarmaServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SocialServiceApplication.class, args);
+        SpringApplication.run(KarmaServiceApplication.class, args);
     }
 
 }

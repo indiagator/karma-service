@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.egov</groupId>
-    <artifactId>social-service</artifactId>
+    <artifactId>karma-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>social-service</name>
-    <description>social-service</description>
+    <name>karma-service</name>
+    <description>karma-service</description>
     <url/>
     <licenses>
         <license/>
